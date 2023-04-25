@@ -1,5 +1,4 @@
-# MATLAB_Projects
-*A Void of My Projects in Matlab*
+# Morse Code Generator using MATLAB
 
 This Project aims towards generating Morse Code of Letters, words and Sentences with audio <br /> 
 Text to speech (using .NET framework) is included that will Translate those morse codes in the form of (dot, dashes, next letter, next word) <br />
